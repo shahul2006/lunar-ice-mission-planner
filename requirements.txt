@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+opencv-python
+rasterio
+gdal
+networkx
+scikit-image
+scikit-learn
+jupyter
+notebook
