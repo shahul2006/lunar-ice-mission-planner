@@ -25,8 +25,6 @@ The objective is to identify potential subsurface water ice deposits in the luna
 - Rasterio
 - GDAL
 - OpenCV
-- QGIS
-- NetworkX
 - Matplotlib
 - Jupyter Notebook
 
